@@ -1,0 +1,1 @@
+En este repositorio se presenta el código desarrollado para la realización de mi Trabajo de Fin de Grado (TFG), con el fin de facilitar su consulta externa y replicabilidad. El código ha sido optimizado y refinado a lo largo del proceso de desarrollo. Para cualquier duda o consulta sobre su funcionamiento, no duden en ponerse en contacto conmigo.
